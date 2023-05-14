@@ -14,7 +14,7 @@
   </p>
 </div>
 
-## USAGE
+## Usage
 
 `python3 main.py "Some prompt to Open AI"`
 
